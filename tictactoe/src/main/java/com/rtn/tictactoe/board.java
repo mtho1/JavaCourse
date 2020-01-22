@@ -7,7 +7,7 @@ package com.rtn.tictactoe;
 
 /**
  *
- * @author Micha
+ * @author 
  */
 public class board {
     private Marker[][] MarkerArray;

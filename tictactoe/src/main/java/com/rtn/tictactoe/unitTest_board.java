@@ -7,7 +7,7 @@ package com.rtn.tictactoe;
 
 /**
  *
- * @author Micha
+ * @author 
  */
 public class unitTest_board {
     public static void main(String [] args)

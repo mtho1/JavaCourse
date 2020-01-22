@@ -7,7 +7,7 @@ package com.rtn.tictactoe;
 
 /**
  * Marker: This class is for an "X" or "O" marker in TicTacToe
- * @author Micha
+ * @author 
  */
 public class Marker {
     private String sym;
